@@ -2,6 +2,8 @@
 ## Overview of Election Audit 
 An employee from the Colorado Board of Elections requested an audit of a recent local election. The tasks for the analysis were: 
 
+
+
 - The total number of votes cast
 - A complete list of candidates who received votes
 - The percentage and total number of votes each candidate won
@@ -11,10 +13,9 @@ An employee from the Colorado Board of Elections requested an audit of a recent 
 - The county with the highest turnout
 
 
-Explain the purpose of this election audit analysis.
 
 ## Election-Audit Results
- Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+
 
  1. How many votes were cast in this congressional election?
     - **369,111 votes**
