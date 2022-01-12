@@ -40,7 +40,14 @@ Explain the purpose of this election audit analysis.
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
 This audit for the Colorado Board of Elections can be modified to work on other election results.  Below are two examples:
-The orginal results came in a CSV with 3 variables, one column for variable. If future results came with an additional column of data, it could be extracted. For example, nexts years data contains the political party of the candidate in the 4th row. Much like the winning candidate along with their vote totals and percentage were found, winning political party, votes and percentage of votes could be determined. Winning candidate, winning count, and winning percentage were all initially defined as variables: 
+The orginal results came in a CSV with 3 variables, one column for variable. If future results came with an additional column of data, it could be extracted. For example, nexts years data contains the political party of the candidate in the 4th row. 
+
+Add in about percent of political party per party
+
+
+
+
+Much like the winning candidate along with their vote totals and percentage were found, winning political party, votes and percentage of votes could be determined. Winning candidate, winning count, and winning percentage were all initially defined as variables: 
 
 INSERT IMAGE
 
